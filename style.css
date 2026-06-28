@@ -1,0 +1,11 @@
+body {
+  color: aliceblue;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+#main {
+  display: flexbox;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
